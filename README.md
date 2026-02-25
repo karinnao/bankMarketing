@@ -39,3 +39,8 @@ Trade-off: While this lowered precision, it is the superior strategy for a bank 
 
 4. Optimization & Validation
 Used GridSearchCV to tune max_depth and min_samples_leaf, ensuring the model generalizes well to new, unseen customers rather than just memorizing the training data.
+
+5. Feature Insights
+   Analyzed the model coefficients to identify the strongest drivers of customer subscriptions:
+Positive Drivers - Success is most highly correlated with the month of March, my engineered was_contacted feature, and the Consumer Price Index.
+Negative Drivers - High economic volatility (emp.var.rate) and landline contact are the strongest predictors of a failed subscription.
