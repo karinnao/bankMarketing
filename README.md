@@ -45,7 +45,6 @@ Negative Drivers - High economic volatility (emp.var.rate) and landline contact
 
 <img width="691" height="545" alt="output_regression" src="https://github.com/user-attachments/assets/745ee5f3-ae6a-4188-b935-003ba26f6e47" />
 <img width="846" height="622" alt="output_trees_comparison" src="https://github.com/user-attachments/assets/01ade675-3216-4468-8356-237ec9862870" />
-<img width="1800" height="500" alt="model_comparison_matrices" src="https://github.com/user-attachments/assets/a622a162-e3f9-4912-a7f1-489f642b5acb" />
 <img width="1659" height="490" alt="output_confusion_matrix" src="https://github.com/user-attachments/assets/2398c4b4-bf14-43ff-a8ab-0b5da031f70e" />
 <img width="984" height="545" alt="output_top_features" src="https://github.com/user-attachments/assets/05af8a92-5786-4169-a07a-03e78a9c95d7" />
 
